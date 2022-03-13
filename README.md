@@ -1,3 +1,3 @@
-# NodeJs ExpressJs MongoDB .edge
+# NodeJs ExpressJs MongoDB Edge.js
 
-# MVC is working
+# MVC was used
